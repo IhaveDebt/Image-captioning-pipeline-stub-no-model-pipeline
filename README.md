@@ -1,0 +1,1 @@
+# Image-captioning-pipeline-stub-no-model-pipeline
